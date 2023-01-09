@@ -1,0 +1,38 @@
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+.banner {
+  background: url(../img/slider/) no-repeat !important;
+  /* background-repeat: no-repeat !important; */
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: white;
+  align-items: center;
+  width: 100%;
+  height: auto;
+}
+
+.navbar a {
+  color: black !important;
+  font-family: arial !important;
+}
+
+
+.official img {
+  width: 150px;
+  border: 10px solid #eeeeee;
+}
+
+a.social {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  border-radius: 50%;
+  background-color: #333;
+  line-height: 40px;
+}

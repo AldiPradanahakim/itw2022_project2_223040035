@@ -1,0 +1,48 @@
+@media (max-width: 991px) {
+    /* .start-content-porto {
+        /* width: 50%; */
+    
+
+    .card {
+        width: 50% !important;
+        margin-right: 10px !important;
+        /* margin-bottom: 100px !important; */
+    }
+}
+
+@media (max-width: 500px) {
+    .start-content-porto {
+        flex-direction: column !important;
+        width: auto !important;
+        /* margin-bottom: px !important; */
+    }
+
+    .center-content-porto {
+        flex-direction: column !important;
+        width: auto !important;
+        /* margin-bottom: px !important; */
+    }
+
+    .end-content-porto {
+        flex-direction: column !important;
+        width: auto !important;
+        /* margin-bottom: px !important; */
+    }
+
+    .portofolio-content {
+        flex-direction: column !important;
+        width: 80% !important;
+        margin: auto !important;
+    }
+
+    .card-cabor {
+        flex-direction: column;
+    }
+
+    .card {
+        flex-direction: column;
+        width: 80% !important;
+        margin: auto !important;
+        margin-bottom: 100px !important;
+    }
+}
